@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ingenieria-de-negocios/static/css/main.08a60040.chunk.css",
+    "main.js": "/ingenieria-de-negocios/static/js/main.bcded2ae.chunk.js",
+    "main.js.map": "/ingenieria-de-negocios/static/js/main.bcded2ae.chunk.js.map",
+    "runtime-main.js": "/ingenieria-de-negocios/static/js/runtime-main.538872da.js",
+    "runtime-main.js.map": "/ingenieria-de-negocios/static/js/runtime-main.538872da.js.map",
+    "static/js/2.6b8a7cff.chunk.js": "/ingenieria-de-negocios/static/js/2.6b8a7cff.chunk.js",
+    "static/js/2.6b8a7cff.chunk.js.map": "/ingenieria-de-negocios/static/js/2.6b8a7cff.chunk.js.map",
+    "static/js/3.9781ee4f.chunk.js": "/ingenieria-de-negocios/static/js/3.9781ee4f.chunk.js",
+    "static/js/3.9781ee4f.chunk.js.map": "/ingenieria-de-negocios/static/js/3.9781ee4f.chunk.js.map",
+    "index.html": "/ingenieria-de-negocios/index.html",
+    "static/css/main.08a60040.chunk.css.map": "/ingenieria-de-negocios/static/css/main.08a60040.chunk.css.map",
+    "static/js/2.6b8a7cff.chunk.js.LICENSE.txt": "/ingenieria-de-negocios/static/js/2.6b8a7cff.chunk.js.LICENSE.txt",
+    "static/media/bannerIngenieriaDeNegocios.8b97aa97.jpg": "/ingenieria-de-negocios/static/media/bannerIngenieriaDeNegocios.8b97aa97.jpg",
+    "static/media/bannerIngenieriaDeNegocios2.4010c887.jpg": "/ingenieria-de-negocios/static/media/bannerIngenieriaDeNegocios2.4010c887.jpg",
+    "static/media/bannerIngenieriaDeNegocios4.2d4076bd.jpg": "/ingenieria-de-negocios/static/media/bannerIngenieriaDeNegocios4.2d4076bd.jpg",
+    "static/media/ficha-AyB.1b965c18.pdf": "/ingenieria-de-negocios/static/media/ficha-AyB.1b965c18.pdf",
+    "static/media/ficha-apelsa.931ef31b.pdf": "/ingenieria-de-negocios/static/media/ficha-apelsa.931ef31b.pdf",
+    "static/media/ficha-rk.aa43c997.pdf": "/ingenieria-de-negocios/static/media/ficha-rk.aa43c997.pdf",
+    "static/media/fondo1T1.6c61d5bb.jpg": "/ingenieria-de-negocios/static/media/fondo1T1.6c61d5bb.jpg",
+    "static/media/fotoX.bf93824a.png": "/ingenieria-de-negocios/static/media/fotoX.bf93824a.png",
+    "static/media/img1-T1.f996751d.png": "/ingenieria-de-negocios/static/media/img1-T1.f996751d.png",
+    "static/media/img1-T2.40122ed2.png": "/ingenieria-de-negocios/static/media/img1-T2.40122ed2.png",
+    "static/media/img1-T4.738eacf7.jpeg": "/ingenieria-de-negocios/static/media/img1-T4.738eacf7.jpeg",
+    "static/media/img2-T2.eb9c0e4a.png": "/ingenieria-de-negocios/static/media/img2-T2.eb9c0e4a.png",
+    "static/media/logo.6ce24c58.svg": "/ingenieria-de-negocios/static/media/logo.6ce24c58.svg",
+    "static/media/pdf.61f9fe36.png": "/ingenieria-de-negocios/static/media/pdf.61f9fe36.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.538872da.js",
+    "static/js/2.6b8a7cff.chunk.js",
+    "static/css/main.08a60040.chunk.css",
+    "static/js/main.bcded2ae.chunk.js"
+  ]
+}
