@@ -278,15 +278,6 @@ const Index = () => {
                 <a
                   className="nav-link text-white  border-bottom border-white mx-1"
                   href="#"
-                  onClick={showT5}
-                >
-                  T5
-                </a>
-              </li>
-              <li className="nav-item">
-                <a
-                  className="nav-link text-white  border-bottom border-white mx-1"
-                  href="#"
                   onClick={exit}
                 >
                   Exit
@@ -427,7 +418,7 @@ const Index = () => {
                     Bienvenidos, en esta pagina web se tratarán temas
                     relacionados con la ingeniería de negocios. Cada uno de los
                     temas está dividido por tutorías, éstas van desde la tutoría
-                    número 1 hasta la tutoría número 5.
+                    número 1 hasta la tutoría número 4.
                   </p>
                   <button className="btn btn-lg btn-info" onClick={showT1}>
                     Empezar <FiArrowRight />{" "}
