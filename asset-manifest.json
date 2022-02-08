@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ingenieria-de-negocios/static/css/main.08a60040.chunk.css",
-    "main.js": "/ingenieria-de-negocios/static/js/main.bcded2ae.chunk.js",
-    "main.js.map": "/ingenieria-de-negocios/static/js/main.bcded2ae.chunk.js.map",
+    "main.js": "/ingenieria-de-negocios/static/js/main.59616e39.chunk.js",
+    "main.js.map": "/ingenieria-de-negocios/static/js/main.59616e39.chunk.js.map",
     "runtime-main.js": "/ingenieria-de-negocios/static/js/runtime-main.538872da.js",
     "runtime-main.js.map": "/ingenieria-de-negocios/static/js/runtime-main.538872da.js.map",
     "static/js/2.6b8a7cff.chunk.js": "/ingenieria-de-negocios/static/js/2.6b8a7cff.chunk.js",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.538872da.js",
     "static/js/2.6b8a7cff.chunk.js",
     "static/css/main.08a60040.chunk.css",
-    "static/js/main.bcded2ae.chunk.js"
+    "static/js/main.59616e39.chunk.js"
   ]
 }
