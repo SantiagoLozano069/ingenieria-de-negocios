@@ -22,6 +22,8 @@ import pdf3T3 from "../../files/ficha-rk.pdf";
 
 import imgPdf from "../../Img/pdf.png";
 
+import img1_t4 from "../../Img/img1-T4.jpeg";
+
 const Index = () => {
   //Estados del formulario
   const { register, handleSubmit } = useForm();
@@ -1156,92 +1158,65 @@ const Index = () => {
                 <h2 className="bg-light">Bienvenido a la tutoría número 4</h2>
                 <div className="row mt-5">
                   <div className="col-7">
-                    <h3>Titulo</h3>
+                    <h3>
+                      Una tecnología para la inteligencia de negocios:
+                      GEOGRÁFICA SISTEMAS DE INFORMACIÓN (SIG)
+                    </h3>
                     <p className="text-justify">
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Ab inventore nam velit, illo exercitationem tenetur culpa
-                      amet consectetur asperiores doloremque non at beatae
-                      reiciendis! Totam, dolores molestiae. Sit consectetur
-                      deserunt nobis omnis ad dignissimos repellat cupiditate,
-                      nisi cumque, blanditiis alias fugit libero nulla, odit
-                      mollitia. Iure nemo, tempora possimus quis sunt amet
-                      accusantium voluptatem dicta rem soluta cum libero
-                      blanditiis. Quaerat, quidem quasi provident veniam eveniet
-                      excepturi hic vero expedita corrupti accusamus aspernatur
-                      ipsa deserunt cupiditate. Totam similique ab nihil
-                      doloribus saepe a deserunt ut earum enim atque,
-                      repellendus numquam facere ea nam asperiores praesentium
-                      omnis voluptas ipsum obcaecati minima facilis, soluta eum!
-                      Porro ex ab iure ut laudantium laboriosam at asperiores
-                      excepturi vitae, pariatur soluta natus obcaecati tenetur
-                      voluptatum, perspiciatis nobis, vero veritatis. Obcaecati
-                      dolorum veniam commodi impedit adipisci eius eligendi
-                      iusto sed laboriosam? Esse ipsa alias doloribus laboriosam
-                      quia in, inventore aperiam soluta, ab qui veniam,
-                      excepturi nisi vel?
+                      En sentido estricto, un sistema de información geográfica
+                      (SIG) es un paquete de software que vincula bases de datos
+                      y mapas electrónicos. En un nivel más general, el término
+                      SIG se refiere a la capacidad de analizar fenómenos
+                      espaciales. Estos sistemas son una importante herramienta
+                      de inteligencia comercial para explotar y presentar la
+                      cantidad cada vez mayor de datos bidimensionales (y más)
+                      disponibles en una forma que pueda ser entendida por
+                      analistas y gerentes. Además de recopilar, almacenar y
+                      recuperar datos de ubicación espacial, un SIG se utiliza
+                      para identificar ubicaciones que cumplen criterios
+                      específicos (por ejemplo, para la ubicación de una nueva
+                      tienda), explorando las relaciones entre conjuntos de
+                      datos, evaluando alternativas y ayudando en la toma de
+                      decisiones, y mostrando ambientes tanto visual como
+                      numéricamente. A nivel general, el término SIG se refiere
+                      a la capacidad de analizar fenómenos espaciales, el cuál
+                      consta de una serie de capas, cada una presentando una
+                      particular característica bidimensional, que se pueden
+                      superponer con precisión encima de unos y otros.
                     </p>
                   </div>
                   <div className="col-5">
-                    <img src={imagenX} width="300" height="300" alt="" />
+                    <img src={img1_t4} width="400" height="500" alt="" />
                   </div>
                 </div>
-                <div
-                  class="row mt-5 text-justify"
-                  style={{ marginBottom: "5rem" }}
-                >
-                  <div class="col mr-2">
-                    <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Odio tempore, perferendis similique, ipsum alias eaque
-                      quaerat hic, facere libero minima voluptatum consequuntur.
-                      Sapiente porro iure esse sequi ullam perspiciatis eos,
-                      iste facere aliquam perferendis ea corporis illo
-                      distinctio repudiandae ut illum, tempora nostrum! Fuga
-                      maxime nostrum error quaerat. Numquam eum temporibus nemo
-                      illo fugit iste nam dicta eligendi. Deserunt, explicabo
-                      asperiores quos omnis voluptates maiores ad. Nisi
-                      reprehenderit esse ipsa nobis reiciendis. Repellat a omnis
-                      nihil in possimus dolore, fugiat animi provident
-                      laudantium sed suscipit exercitationem corporis nesciunt
-                      distinctio fuga explicabo iste ab molestias commodi sunt
-                      recusandae cum modi iure?
-                    </p>
-                  </div>
-                  <div class="col mr-2">
-                    <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Odio tempore, perferendis similique, ipsum alias eaque
-                      quaerat hic, facere libero minima voluptatum consequuntur.
-                      Sapiente porro iure esse sequi ullam perspiciatis eos,
-                      iste facere aliquam perferendis ea corporis illo
-                      distinctio repudiandae ut illum, tempora nostrum! Fuga
-                      maxime nostrum error quaerat. Numquam eum temporibus nemo
-                      illo fugit iste nam dicta eligendi. Deserunt, explicabo
-                      asperiores quos omnis voluptates maiores ad. Nisi
-                      reprehenderit esse ipsa nobis reiciendis. Repellat a omnis
-                      nihil in possimus dolore, fugiat animi provident
-                      laudantium sed suscipit exercitationem corporis nesciunt
-                      distinctio fuga explicabo iste ab molestias commodi sunt
-                      recusandae cum modi iure?
-                    </p>
-                  </div>
-                  <div class="col mr-2">
-                    <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Odio tempore, perferendis similique, ipsum alias eaque
-                      quaerat hic, facere libero minima voluptatum consequuntur.
-                      Sapiente porro iure esse sequi ullam perspiciatis eos,
-                      iste facere aliquam perferendis ea corporis illo
-                      distinctio repudiandae ut illum, tempora nostrum! Fuga
-                      maxime nostrum error quaerat. Numquam eum temporibus nemo
-                      illo fugit iste nam dicta eligendi. Deserunt, explicabo
-                      asperiores quos omnis voluptates maiores ad. Nisi
-                      reprehenderit esse ipsa nobis reiciendis. Repellat a omnis
-                      nihil in possimus dolore, fugiat animi provident
-                      laudantium sed suscipit exercitationem corporis nesciunt
-                      distinctio fuga explicabo iste ab molestias commodi sunt
-                      recusandae cum modi iure?
-                    </p>
+                <div className="d-block bg-info text-white">
+                  Algunos Ejemplos
+                </div>
+                <div class="mt-5 text-justify" style={{ marginBottom: "5rem" }}>
+                  <div class="mr-2">
+                    <ul>
+                      <li>
+                        <p>
+                          Un grupo de marketing superpone las ubicaciones de los
+                          clientes, las escuelas, la distribución centros
+                          comerciales y minoristas existentes que venden
+                          productos propios y/o de la competencia. <br />
+                          <br />
+                        </p>
+                      </li>
+                      <li>
+                        Una empresa de telecomunicaciones selecciona el número y
+                        la ubicación de los centros de conmutación y rutas en
+                        una red de comunicación. El sistema muestra cantidades
+                        tales como tráfico, costes y tiempos de transmisión. Los
+                        usuarios pueden redefinir la red en la pantalla, puede
+                        crear varias vistas, ver el efecto de los cambios "qué
+                        pasaría si" y los nuevos datos porque el sistema vuelve
+                        a calcular cada cambio, tiene en cuenta las
+                        restricciones y muestra donde la solución propuesta no
+                        cumple con los criterios.
+                      </li>
+                    </ul>
                   </div>
                 </div>
               </div>
